@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Project" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="io.github.upixelar.little_compiler.Main" />
+    <module name="little-compiler" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
